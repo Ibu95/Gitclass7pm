@@ -1,10 +1,9 @@
 package stepdef;
 
-import java.io.InputStream;
-import java.util.Properties;
-
 import fbpom.Login;
-import io.cucumber.java.en.*;
+import io.cucumber.java.en.Given;
+import io.cucumber.java.en.Then;
+import io.cucumber.java.en.When;
 import utility.Home_Base;
 
 public class Fb_SetpDef extends Home_Base {
